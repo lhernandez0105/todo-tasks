@@ -1,0 +1,14 @@
+{
+  "name": "todo-tasks",
+  "version": "1.0.0",
+  "description": "Mi aplicacion para hacer tareas",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luis HErnandez",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
